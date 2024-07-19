@@ -1,1 +1,14 @@
 split dataset into scaled/nonscaled and save local copy
+
+
+inlcude all races
+split notebooks
+
+
+is the indexing done correctly in fair pca
+
+
+Should i use logistic regression or random forest
+
+
+you dont need to scale data when using random forest you stpod bitch

@@ -12,3 +12,6 @@ Should i use logistic regression or random forest
 
 
 you dont need to scale data when using random forest you stpod bitch
+
+
+maybe also look at false positive etx.

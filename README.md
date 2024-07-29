@@ -37,3 +37,7 @@ The SHAP and Counterfactuals notebook is designed to interpret model predictions
 - **SHAP Analysis:** Computing feature importance using the SHAP (SHapley Additive exPlanations) library.
 - **Counterfactuals Generation:** Identifying minimal changes required to alter the model's predictions.
 - **Evaluation on FairPCA Data:** Assessing the counterfactuals on the FairPCA-transformed data to ensure fairness improvements.
+
+
+### 5. Fairness_in_law_school Notebook
+This is simply a merged notebook of all the notebooks above since I could only submit one for my exam

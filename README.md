@@ -1,6 +1,6 @@
 # Algorithmic Fairness Project
 
-This repository contains a series of Jupyter notebooks designed to explore and address issues of fairness in machine learning algorithms specifically pertaining to law school bar passage rates. Each notebook focuses on different aspects of data analysis, model evaluation, and fairness improvement techniques. Below is a detailed description of each notebook and its purpose.
+This repository contains a series of Jupyter notebooks designed to explore and address issues of fairness in machine learning algorithms specifically pertaining to law school bar passage rates. Each notebook focuses on different aspects of data analysis, model training and evaluation, and fairness improvement techniques. Below is a detailed description of each notebook and its purpose.
 
 ## Notebooks Overview
 
